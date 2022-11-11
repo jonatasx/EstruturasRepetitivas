@@ -1,0 +1,15 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\net6.0\EstruturaRepetitiva.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\net6.0\EstruturaRepetitiva.deps.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\net6.0\EstruturaRepetitiva.runtimeconfig.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\net6.0\EstruturaRepetitiva.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\bin\Debug\net6.0\EstruturaRepetitiva.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\net6.0\EstruturaRepetitiva.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\net6.0\EstruturaRepetitiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\net6.0\EstruturaRepetitiva.AssemblyInfoInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\net6.0\EstruturaRepetitiva.AssemblyInfo.cs
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\net6.0\EstruturaRepetitiva.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\net6.0\EstruturaRepetitiva.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\net6.0\refint\EstruturaRepetitiva.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\net6.0\EstruturaRepetitiva.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\net6.0\EstruturaRepetitiva.genruntimeconfig.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\EstruturaRepetitiva\obj\Debug\net6.0\ref\EstruturaRepetitiva.dll

@@ -1,0 +1,15 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\bin\Debug\net6.0\AgeAverage.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\bin\Debug\net6.0\AgeAverage.deps.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\bin\Debug\net6.0\AgeAverage.runtimeconfig.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\bin\Debug\net6.0\AgeAverage.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\bin\Debug\net6.0\AgeAverage.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\obj\Debug\net6.0\AgeAverage.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\obj\Debug\net6.0\AgeAverage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\obj\Debug\net6.0\AgeAverage.AssemblyInfoInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\obj\Debug\net6.0\AgeAverage.AssemblyInfo.cs
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\obj\Debug\net6.0\AgeAverage.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\obj\Debug\net6.0\AgeAverage.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\obj\Debug\net6.0\refint\AgeAverage.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\obj\Debug\net6.0\AgeAverage.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\obj\Debug\net6.0\AgeAverage.genruntimeconfig.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\AgeAverage\obj\Debug\net6.0\ref\AgeAverage.dll

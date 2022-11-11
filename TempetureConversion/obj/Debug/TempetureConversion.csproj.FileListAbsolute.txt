@@ -1,0 +1,8 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\TempetureConversion\bin\Debug\TempetureConversion.exe.config
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\TempetureConversion\bin\Debug\TempetureConversion.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\TempetureConversion\bin\Debug\TempetureConversion.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\TempetureConversion\obj\Debug\TempetureConversion.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\TempetureConversion\obj\Debug\TempetureConversion.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\TempetureConversion\obj\Debug\TempetureConversion.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\TempetureConversion\obj\Debug\TempetureConversion.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\TempetureConversion\obj\Debug\TempetureConversion.pdb

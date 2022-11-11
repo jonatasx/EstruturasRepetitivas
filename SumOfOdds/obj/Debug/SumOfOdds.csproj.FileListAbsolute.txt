@@ -1,0 +1,8 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\SumOfOdds\bin\Debug\SumOfOdds.exe.config
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\SumOfOdds\bin\Debug\SumOfOdds.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\SumOfOdds\bin\Debug\SumOfOdds.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\SumOfOdds\obj\Debug\SumOfOdds.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\SumOfOdds\obj\Debug\SumOfOdds.csproj.SuggestedBindingRedirects.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\SumOfOdds\obj\Debug\SumOfOdds.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\SumOfOdds\obj\Debug\SumOfOdds.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\SumOfOdds\obj\Debug\SumOfOdds.pdb

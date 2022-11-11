@@ -1,0 +1,15 @@
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\bin\Debug\net6.0\Cres_Decres.exe
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\bin\Debug\net6.0\Cres_Decres.deps.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\bin\Debug\net6.0\Cres_Decres.runtimeconfig.json
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\bin\Debug\net6.0\Cres_Decres.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\bin\Debug\net6.0\Cres_Decres.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\obj\Debug\net6.0\Cres_Decres.csproj.AssemblyReference.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\obj\Debug\net6.0\Cres_Decres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\obj\Debug\net6.0\Cres_Decres.AssemblyInfoInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\obj\Debug\net6.0\Cres_Decres.AssemblyInfo.cs
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\obj\Debug\net6.0\Cres_Decres.csproj.CoreCompileInputs.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\obj\Debug\net6.0\Cres_Decres.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\obj\Debug\net6.0\refint\Cres_Decres.dll
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\obj\Debug\net6.0\Cres_Decres.pdb
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\obj\Debug\net6.0\Cres_Decres.genruntimeconfig.cache
+C:\Users\jonatas.pessoa\Documents\Programas C#\EstruturaRepetitiva\Cres_Decres\obj\Debug\net6.0\ref\Cres_Decres.dll
